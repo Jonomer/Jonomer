@@ -1,4 +1,4 @@
-Mukadderatul Cenntul Bakiden Geldim
+Mukadderatul Cennetul Bakiden Geldim
 
 <!---
 Jonomer/Jonomer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
