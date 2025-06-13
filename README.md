@@ -12,7 +12,7 @@
 class Enver:
     def __init__(self):
         self.status = "Learning by exploiting"
-        self.languages = ["Python", "C++"]
+        self.languages = ["Python", "C++", "C#"]
         self.os = ["Arch", "Ubuntu", "Windows"]
         self.energy = "root-level"
 ```
@@ -24,6 +24,7 @@ class Enver:
 <div style="line-height:2;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="height:26px; margin:2px;">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" style="height:26px; margin:2px;">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" style="height:26px; margin:2px;">
 </div>
 
 <h3>💻 Operating Systems</h3>
