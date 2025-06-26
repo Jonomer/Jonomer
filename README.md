@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">🖤 Enver — A Romantic Cybersecurity Student</h1>
+
 
 ```bash
 # Duck mode: enabled
