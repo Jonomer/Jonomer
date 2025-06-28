@@ -8,7 +8,7 @@
 ```
 
 ```python
-# Just a student... 🤫
+# Just a duck... 🤫
 class Enver:
     def __init__(self):
         self.status = "Learning by exploiting"
